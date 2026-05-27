@@ -87,7 +87,7 @@ Original [SirenSharp](https://github.com/BJDubb/SirenSharp) project by: [BJdubb]
 ## Additional Credits
 
 - @Dexyfex for [CodeWalker](https://github.com/dexyfex/CodeWalker)
-- Luxart Vehicle Control developers
+- [TrevorBarns](https://github.com/TrevorBarns) for [Luxart Vehicle Control](https://github.com/TrevorBarns/luxart-vehicle-control)
 - FiveM development community contributors
 
 ---
