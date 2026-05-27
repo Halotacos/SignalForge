@@ -82,7 +82,7 @@ Original credits remain with the original SirenSharp contributors where applicab
 # Credits
 
 ## Original SirenSharp
-Original SirenSharp project by the original contributors and maintainers.
+Original [SirenSharp](https://github.com/BJDubb/SirenSharp) project by: [BJdubb](https://github.com/BJDubb)
 
 ## Additional Credits
 
